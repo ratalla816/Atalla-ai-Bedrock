@@ -61,7 +61,8 @@
 
 # Screenshot
 
-![application screenshot](./assets/images/video.gif)![screenshot](./assets/images/video2.gif)
+![application screenshot](public/assets/images/coming-soon.jpg)
+<!-- ![screenshot](./assets/images/video2.gif) -->
 
 
 # Features
